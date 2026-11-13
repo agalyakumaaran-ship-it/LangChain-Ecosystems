@@ -2,13 +2,18 @@ venv/
 __pycache__/
 *.pyc
 
+# Environment variables and secrets
 .env
 .env.*
+**/.env
 !.env.example
 
+# Credentials
 credential.txt
 
+# System and editor files
 .DS_Store
 .vscode/
 
+# Logs
 *.log
