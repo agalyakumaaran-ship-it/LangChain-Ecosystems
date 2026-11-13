@@ -1,0 +1,12 @@
+# Generated from requirements.in. Pin exact versions with:
+#   uv pip compile requirements.in -o requirements.txt   (or: pip-compile requirements.in)
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+faiss-cpu>=1.8
+numpy>=1.26
+neo4j>=5.20
+pypdf>=4.0
+sentence-transformers>=3.0
+anthropic>=0.40
+python-dotenv>=1.0

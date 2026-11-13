@@ -1,0 +1,151 @@
+Student_ID,Name,email,phone,course,fee_paid,City,Enrolled Date
+ID-1001,Pooja Gupta,pooja.gupta47@gmail.com,+91-93650-99112,Python,Pending,Chennai,18-06-2026
+ID-1002,Divya Natesan,divya.natesan79@gmail.com,+91-91972-70566,AI & ML,yes,Bangalore,"June 15, 2026"
+ID-1003,Kavita Joshi,kavita.joshi25@gmail.com,+91-71062-94076,Python,NO,Chennai,12/06/2026
+ID-1004,Divya Singh,divya.singh68@gmail.com,+91-91689-21174,Python,YES,Bangalore,"June 15, 2026"
+ID-1005,Pooja Iyer,pooja.iyer12@gmail.com,+91-74729-19348,Data Science,No,Chennai,
+ID-1006,Rahul Verma,rahul.verma68@gmail.com,+91-78924-99930,Data Science,yes,Mumbai,2026/06/20
+ID-1007,Kavita Nair,kavita.nair76@gmail.com,+91-76731-58136,Machine learning,no,Coimbatore,18-06-2026
+ID-1008,Amit Singh,amit.singh29@gmail.com,+91-72539-82592,AI & ML,no,Coimbatore,18-06-2026
+ID-1009,Sneha Joshi,sneha.joshi61@gmail.com,+91-71542-31677,Data Science,Pending,Trichy,18-06-2026
+ID-1010,Amit Kumar,amit.kumar49@gmail.com,+91-76313-72856,Data Science,Pending,Madurai,"June 15, 2026"
+ID-1011,Vikram Singh,vikram.singh91@gmail.com,+91-89065-93460,Full Stack Development,Pending,Trichy,2026/06/20
+ID-1012,Priya Joshi,priya.joshi20@gmail.com,+91-91925-36962,Cyber Security,yes,Hyderabad,12/06/2026
+ID-1013,Karthik Das,karthik.das98@gmail.com,+91-79580-36432,Digital Marketing,NO,Chennai,
+ID-1014,Vikram Patel,vikram.patel40@gmail.com,+91-96256-67854,Cyber Security,YES,Bangalore,12/06/2026
+ID-1015,Karthik Singh,karthik.singh16@gmail.com,+91-71324-45909,Cloud Computing,No,Madurai,"June 15, 2026"
+ID-1016,Aarav Reddy,aarav.reddy69@gmail.com,+91-71810-82124,AI & ML,yes,Chennai,
+ID-1017,Rohit Malhotra,rohit.malhotra10@gmail.com,+91-96790-35289,Digital Marketing,no,Hyderabad,18-06-2026
+ID-1018,Divya Reddy,divya.reddy21@gmail.com,+91-98710-25485,Python,Pending,Chennai,2026-06-10
+ID-1019,Neha Sharma,neha.sharma41@gmail.com,+91-74748-96769,Data Science,yes,Coimbatore,"June 15, 2026"
+ID-1020,Kavita Nair,kavita.nair18@gmail.com,+91-95657-40355,Machine learning,NO,Coimbatore,"June 15, 2026"
+ID-1021,Deepak Iyer,deepak.iyer28@gmail.com,+91-83116-35470,Data Science,YES,Trichy,2026/06/20
+ID-1022,Karthik Reddy,karthik.reddy12@gmail.com,+91-89456-49298,,No,Chennai,12/06/2026
+ID-1023,Deepak Das,deepak.das63@gmail.com,+91-98861-76040,Python,yes,Madurai,"June 15, 2026"
+ID-1024,Manish Natesan,manish.natesan33@gmail.com,+91-98016-33960,Machine learning,no,,"June 15, 2026"
+ID-1025,Manish Kumar,manish.kumar81@gmail.com,+91-75029-77641,Python,no,Hyderabad,18-06-2026
+ID-1026,Karthik Verma,karthik.verma93@gmail.com,N/A,Machine learning,yes,Hyderabad,18-06-2026
+ID-1027,Sneha Rao,sneha.rao98@gmail.com,+91-71852-30559,Cloud Computing,Pending,Trichy,
+ID-1028,Rahul Singh,rahul.singh27@gmail.com,+91-98874-86539,AI & ML,yes,Coimbatore,2026-06-10
+ID-1029,Rahul Verma,rahul.verma91@gmail.com,N/A,AI & ML,NO,Trichy,2026/06/20
+ID-1030,Ananya Rao,ananya.rao44@gmail.com,+91-83843-81726,Cloud Computing,YES,Bangalore,2026-06-10
+ID-1031,Pooja Patel,pooja.patel50@gmail.com,+91-75645-62638,Cyber Security,Pending,Madurai,
+ID-1032,Sneha Rao,sneha.rao77@gmail.com,+91-81829-78866,Cyber Security,yes,Chennai,18-06-2026
+ID-1033,Karthik Das,karthik.das30@gmail.com,+91-94504-17114,Machine learning,NO,Mumbai,12/06/2026
+ID-1034,Priya Iyer,priya.iyer17@gmail.com,+91-80975-21023,AI & ML,YES,Salem,18-06-2026
+ID-1035,Neha Iyer,neha.iyer26@gmail.com,+91-97595-33959,Digital Marketing,No,Salem,2026/06/20
+ID-1036,Ananya Patel,ananya.patel57@gmail.com,+91-99703-19337,Machine learning,yes,Trichy,18-06-2026
+ID-1037,Sneha Reddy,sneha.reddy95@gmail.com,+91-98761-94665,Python,no,Bangalore,2026/06/20
+ID-1038,Deepak Reddy,deepak.reddy39@gmail.com,+91-70539-37355,Python,no,Madurai,2026/06/20
+ID-1039,Pooja Reddy,pooja.reddy60@gmail.com,+91-74835-30159,Machine learning,yes,,2026/06/20
+ID-1040,Divya Joshi,divya.joshi36@gmail.com,+91-93486-48088,Data Science,NO,Salem,
+ID-1041,Deepak Kumar,deepak.kumar30@gmail.com,+91-94275-45547,,YES,Madurai,2026/06/20
+ID-1042,Manish Sharma,manish.sharma37@gmail.com,+91-97532-44349,Cloud Computing,No,Chennai,2026/06/20
+ID-1043,Sneha Patel,sneha.patel78@gmail.com,N/A,Machine learning,yes,Chennai,12/06/2026
+ID-1044,Amit Gupta,amit.gupta57@gmail.com,+91-93410-59407,AI & ML,Pending,Bangalore,2026-06-10
+ID-1045,Priya Das,priya.das44@gmail.com,+91-80136-75545,Full Stack Development,yes,Coimbatore,"June 15, 2026"
+ID-1046,Vikram Malhotra,vikram.malhotra26@gmail.com,+91-93793-66570,Full Stack Development,NO,Madurai,2026-06-10
+ID-1047,Rohit Gupta,rohit.gupta39@gmail.com,N/A,Cyber Security,YES,Chennai,2026/06/20
+ID-1048,Vikram Mehta,vikram.mehta15@gmail.com,N/A,Data Science,No,,12/06/2026
+ID-1049,Deepak Patel,Deepakpatel,+91-97712-18415,Python,yes,Mumbai,18-06-2026
+ID-1050,Rohit Reddy,rohit.reddy55@gmail.com,+91-99524-33833,AI & ML,no,Coimbatore,12/06/2026
+ID-1051,Priya Iyer,priya.iyer69@gmail.com,+91-90309-16970,Cloud Computing,no,Mumbai,2026/06/20
+ID-1052,Manish Gupta,manish.gupta72@gmail.com,+91-83772-30384,Data Science,Pending,,12/06/2026
+ID-1053,Manish Natesan,manish.natesan41@gmail.com,+91-77266-18702,Machine learning,yes,Chennai,12/06/2026
+ID-1054,Deepak Joshi,deepak.joshi76@gmail.com,+91-78175-57926,Python,NO,Salem,2026/06/20
+ID-1055,Manish Verma,manish.verma34@gmail.com,+91-88384-70100,Machine learning,Pending,Mumbai,
+ID-1056,Karthik Rao,karthik.rao@gmail,+91-75989-90642,Python,Pending,Coimbatore,12/06/2026
+ID-1057,Manish Joshi,manish.joshi55@gmail.com,,Full Stack Development,Pending,Trichy,"June 15, 2026"
+ID-1058,Ananya Mehta,ananya.mehta41@gmail.com,+91-90562-23456,Cloud Computing,Pending,Hyderabad,"June 15, 2026"
+ID-1059,Priya Natesan,priya.natesan32@gmail.com,+91-92984-48765,Cyber Security,Pending,Madurai,12/06/2026
+ID-1060,Ananya Joshi,ananya.joshi36@gmail.com,+91-91164-27100,Python,yes,Salem,
+ID-1061,Rohit Rao,rohit.rao26@gmail.com,+91-74544-47744,Cyber Security,NO,Mumbai,18-06-2026
+ID-1062,Karthik Reddy,karthik.reddy18@gmail.com,+91-96657-46187,Cyber Security,YES,Chennai,2026/06/20
+ID-1063,Karthik Mehta,karthik.mehta57@gmail.com,+91-96150-24489,,No,Madurai,"June 15, 2026"
+ID-1064,Neha Mehta,neha.mehta51@gmail.com,,Digital Marketing,yes,Trichy,18-06-2026
+ID-1065,Deepak Mehta,deepak.mehta59@gmail.com,+91-74363-52944,Python,no,,12/06/2026
+ID-1066,Aarav Rao,aarav.rao22@gmail.com,+91-78580-34285,Data Science,no,Hyderabad,18-06-2026
+ID-1067,Pooja Rao,pooja.rao16@gmail.com,+91-92928-63871,Cyber Security,yes,Chennai,2026-06-10
+ID-1068,Amit Sharma,amit.sharma54@gmail.com,+91-85254-54238,Cloud Computing,yes,Trichy,"June 15, 2026"
+ID-1069,Karthik Joshi,karthik.joshi17@gmail.com,+91-82173-47441,Data Science,NO,Trichy,12/06/2026
+ID-1070,Amit Natesan,amit.natesan25@gmail.com,+91-96726-91317,Cloud Computing,YES,,2026/06/20
+ID-1071,Kavita Kumar,kavita.kumar96@gmail.com,+91-76881-16949,Cloud Computing,No,Bangalore,
+ID-1072,Aarav Joshi,,+91-78017-16941,Cloud Computing,yes,,12/06/2026
+ID-1073,Rahul Kumar,rahul.kumar41@gmail.com,+91-97058-71886,Data Science,no,Bangalore,2026/06/20
+ID-1074,Aarav Nair,aarav.nair95@gmail.com,+91-98920-63413,AI & ML,no,Bangalore,
+ID-1075,Ananya Iyer,ananya.iyer67@gmail.com,+91-79550-80173,Cyber Security,yes,Salem,
+ID-1076,Pooja Iyer,pooja.iyer31@gmail.com,+91-94114-53088,Cyber Security,NO,Salem,12/06/2026
+ID-1077,Neha Reddy,neha.reddy95@gmail.com,+91-77043-65479,Digital Marketing,YES,Coimbatore,18-06-2026
+ID-1078,Pooja Rao,pooja.rao51@gmail.com,+91-89216-29963,AI & ML,No,Mumbai,18-06-2026
+ID-1079,Amit Reddy,amit.reddy63@gmail.com,,Python,yes,Mumbai,
+ID-1080,Priya Sharma,priya.sharma17@gmail.com,,Digital Marketing,no,Chennai,18-06-2026
+ID-1081,Pooja Verma,pooja.verma14@gmail.com,+91-75569-79836,Full Stack Development,no,Mumbai,2026-06-10
+ID-1082,Manish Joshi,manish.joshi15@gmail.com,+91-98714-22015,Python,yes,Salem,
+ID-1083,Ananya Kumar,ananya.kumar56@gmail.com,+91-76254-27144,Python,NO,Coimbatore,
+ID-1084,Karthik Joshi,karthik.joshi49@gmail.com,+91-85183-81774,Cloud Computing,YES,Coimbatore,2026/06/20
+ID-1085,Vikram Nair,vikram.nair22@gmail.com,+91-92415-34071,Python,No,Bangalore,18-06-2026
+ID-1086,Rahul Sharma,rahul.sharma39@gmail.com,+91-97523-51240,Python,Pending,,
+ID-1087,Rahul Singh,,+91-73266-43434,Python,yes,Chennai,2026-06-10
+ID-1088,Deepak Das,deepak.das28@gmail.com,+91-80161-38732,Python,NO,Bangalore,2026/06/20
+ID-1089,Rahul Sharma,rahul.sharma64@gmail.com,+91-93954-67108,Python,YES,,12/06/2026
+ID-1090,Ananya Iyer,ananya.iyer71@gmail.com,+91-82891-46668,AI & ML,No,Mumbai,
+ID-1091,Pooja Natesan,pooja.natesan18@gmail.com,887,Python,yes,Bangalore,2026-06-10
+ID-1092,Manish Verma,manish.verma10@gmail.com,+91-76376-26907,Python,no,Madurai,"June 15, 2026"
+ID-1093,Kavita Rao,kavita.rao10@gmail.com,+91-88977-91818,Python,no,Mumbai,2026-06-10
+ID-1094,Deepak Natesan,deepak.natesan57@gmail.com,987654,AI & ML,yes,,2026-06-10
+ID-1095,Rohit Iyer,rohit.iyer10@gmail.com,+91-75240-53221,Data Science,NO,Chennai,2026/06/20
+ID-1096,Karthik Mehta,karthik.mehta73@gmail.com,645666,Full Stack Development,YES,,12/06/2026
+ID-1097,Rahul Natesan,rahul.natesan31@gmail.com,+91-89262-62796,Digital Marketing,No,Bangalore,"June 15, 2026"
+ID-1098,Pooja Sharma,pooja.sharma76@gmail.com,675,Digital Marketing,yes,Bangalore,18-06-2026
+ID-1099,Sneha Mehta,sneha.mehta25@gmail.com,+91-96631-89714,Cloud Computing,no,Trichy,18-06-2026
+ID-1100,Sneha Das,sneha.das95@gmail.com,+91-97342-10302,Digital Marketing,no,Chennai,2026-06-10
+ID-1101,Ananya Verma,,+91-83013-18717,Full Stack Development,yes,Chennai,2026/06/20
+ID-1102,Pooja Mehta,pooja.mehta78@gmail.com,+91-78150-77661,,NO,Mumbai,2026/06/20
+ID-1103,Deepak Nair,deepak.nair71@gmail.com,+91-86748-14621,AI & ML,YES,Coimbatore,18-06-2026
+ID-1104,Divya Gupta,divya.gupta85@gmail.com,+91-99554-15126,,₹50000.00,Chennai,"June 15, 2026"
+ID-1105,Divya Verma,,,Cloud Computing,₹45000.00,Coimbatore,12/06/2026
+ID-1106,Kavita Kumar,kavita.kumar94@gmail.com,+91-71531-98869,Full Stack Development,Pending,Chennai,"June 15, 2026"
+ID-1107,Vikram Reddy,vikram.reddy42@gmail.com,+91-73086-56271,AI & ML,₹45000.00,Chennai,
+ID-1108,Priya Iyer,priya.iyer32@gmail.com,+91-82772-20267,Full Stack Development,Pending,,
+ID-1109,Divya Das,,,Cyber Security,yes,Chennai,12/06/2026
+ID-1110,Neha Singh,neha.singh43@gmail.com,+91-99926-16229,Cloud Computing,NO,Trichy,18-06-2026
+ID-1111,Vikram Reddy,vikram.reddy19@gmail.com,+91-85147-14632,AI & ML,YES,Chennai,12/06/2026
+ID-1112,Karthik Reddy,karthik.reddy67@gmail.com,+91-81475-16168,Digital Marketing,No,Bangalore,2026/06/20
+ID-1113,Karthik Gupta,karthik.gupta78@gmail.com,+91-78258-92152,AI & ML,yes,Hyderabad,
+ID-1114,Manish Das,manish.das25@gmail.com,+91-96734-16371,Cloud Computing,no,Coimbatore,2026-06-10
+ID-1115,Kavita Iyer,kavita.iyer11@gmail.com,+91-84369-22910,Cloud Computing,no,Bangalore,2026-06-10
+ID-1116,Pooja Reddy,,+91-85728-33275,Full Stack Development,yes,Hyderabad,18-06-2026
+ID-1117,Neha Verma,neha.verma93@gmail.com,+91-72472-70004,Cyber Security,NO,Chennai,2026/06/20
+ID-1118,Manish Sharma,manish.sharma59@gmail.com,+91-91785-58447,Data Science,YES,Chennai,"June 15, 2026"
+ID-1119,Aarav Rao,aarav.rao42@gmail.com,+91-80167-86090,Data Science,No,Coimbatore,2026/06/20
+ID-1120,Kavita Das,kavita.das60@gmail.com,+91-73812-38024,Python,yes,Coimbatore,2026-06-10
+ID-1121,Neha Gupta,neha.gupta21@gmail.com,+91-97285-11605,Data Science,no,Chennai,2026-06-10
+ID-1122,Divya Rao,divya.rao42@gmail.com,+91-97139-87149,Python,no,Hyderabad,
+ID-1123,Rahul Verma,rahul.verma52@gmail.com,+91-80589-23918,Python,yes,Chennai,2026/06/20
+ID-1124,Vikram Joshi,vikram.joshi22@gmail.com,N/A,AI & ML,NO,Mumbai,2026/06/20
+ID-1125,Kavita Rao,kavita.rao55@gmail.com,+91-94818-14324,AI & ML,YES,Madurai,2026-06-10
+ID-1126,Manish Singh,,+91-75342-26389,,No,Bangalore,"June 15, 2026"
+ID-1127,Aarav Kumar,aarav.kumar44@gmail.com,+91-84043-38746,AI & ML,yes,,18-06-2026
+ID-1128,Rohit Reddy,rohit.reddy17@gmail.com,+91-78837-10117,Data Science,no,Bangalore,18-06-2026
+ID-1129,Amit Natesan,amit.natesan83@gmail.com,+91-88935-23234,Data Science,no,Cb,2026/06/20
+ID-1130,Kavita Malhotra,,+91-90673-10846,Digital Marketing,yes,Hyderabad,18-06-2026
+ID-1131,Amit Rao,amit.rao16@gmail.com,+91-85385-56514,AI & ML,NO,,2026-06-10
+ID-1132,Sneha Sharma,sneha.sharma84@gmail.com,+91-76469-40105,,YES,Coimbatore,2026-06-10
+ID-1133,Manish Sharma,manish.sharma45@gmail.com,+91-96386-68067,Data Science,No,Mumbai,2026/06/20
+ID-1134,Rohit Gupta,rohit.gupta45@gmail.com,+91-74208-77584,Python,yes,Mumbai,2026/06/20
+ID-1135,Karthik Das,karthik.das82@gmail.com,+91-82607-52533,Cloud Computing,NO,Coimbatore,
+ID-1136,Pooja Patel,pooja.patel58@gmail.com,+91-90618-42254,AI & ML,YES,Trichy,2026/06/20
+ID-1137,Rahul Sharma,rahul.sharma45@gmail.com,+91-88410-57362,AI & ML,No,Hyderabad,"June 15, 2026"
+ID-1138,Ananya Sharma,ananya.sharma33@gmail.com,N/A,AI & ML,yes,Trichy,18-06-2026
+ID-1139,Amit Sharma,amit.sharma46@gmail.com,+91-70009-92180,Python,Pending,Trichy,2026/06/20
+ID-1140,Kavita Sharma,kavita.sharma64@gmail.com,N/A,Full Stack Development,yes,Bangalore,12/06/2026
+ID-1141,Priya Patel,priya.patel98@gmail.com,+91-88444-15287,Python,NO,Chennai,
+ID-1142,Karthik Malhotra,karthik.malhotra39@gmail.com,+91-78512-11342,Python,Pending,Bangalore,12/06/2026
+ID-1143,Pooja Singh,pooja.singh71@gmail.com,+91-89216-89767,Full Stack Development,yes,Chennai,2026-06-10
+ID-1144,Aarav Sharma,aarav.sharma98@gmail.com,+91-73490-52078,Cyber Security,NO,Madurai,18-06-2026
+ID-1145,Rahul Das,rahul.das68@gmail.com,+91-82219-10235,Cloud Computing,YES,Ke,2026/06/20
+ID-1146,Priya Singh,priya.singh21@gmail.com,+91-71908-18567,Python,No,Chennai,12/06/2026
+ID-1147,Karthik Iyer,karthik.iyer28@gmail.com,+91-89019-83698,Python,yes,Coimbatore,18-06-2026
+ID-1148,Vikram Verma,vikram.verma80@gmail.com,N/A,Data Science,NO,Bangalore,2026-06-10
+ID-1149,Sneha Verma,sneha.verma61@gmail.com,+91-81157-15951,Python,YES,Hyderabad,"June 15, 2026"
+ID-1150,Kavita Joshi,kavita.joshi25@gmail.com,+91-98426-51832,Python,No,,

@@ -1,0 +1,4 @@
+# Generated from requirements.in. Pin exact versions with:
+#   uv pip compile requirements.in -o requirements.txt   (or: pip-compile requirements.in)
+streamlit>=1.40
+requests>=2.32

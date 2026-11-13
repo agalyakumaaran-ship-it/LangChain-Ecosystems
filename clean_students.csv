@@ -1,0 +1,151 @@
+Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date
+ID-1001,Pooja Gupta,pooja.gupta47@gmail.com,+91-93650-99112,Python,False,Chennai,2026-06-18
+ID-1002,Divya Natesan,divya.natesan79@gmail.com,+91-91972-70566,Machine Learning,True,Bangalore,2026-06-150
+ID-1003,Kavita Joshi,kavita.joshi25@gmail.com,+91-71062-94076,Python,False,Chennai,2026-06-10
+ID-1004,Divya Singh,divya.singh68@gmail.com,+91-91689-21174,Python,True,Bangalore,2026-06-15
+ID-1005,Pooja Iyer,pooja.iyer12@gmail.com,+91-74729-19348,Data,False,Chennai,UNKNOWN
+ID-1006,Rahul Verma,rahul.verma68@gmail.com,+91-78924-99930,Data,True,Mumbai,2026-06-20
+ID-1007,Kavita Nair,kavita.nair76@gmail.com,7673158136,Machine Learning,False,Coimbatore,2026-06-18
+ID-1008,Amit Singh,INVALID_EMAIL,MISSING,Machine Learning,False,Coimbatore,2026-06-18
+ID-1009,Sneha Joshi,sneha.joshi61@gmail.com,+91-71542-31677,Data,False,Trichy,2026-06-18
+ID-1010,Amit Kumar,amit.kumar49@gmail.com,7631372856,Data,False,Madurai,2026-06-15
+ID-1011,Vikram Singh,vikram.singh91@gmail.com,8906593460,UNKNOWN,False,Trichy,2026-06-20
+ID-1012,Priya Joshi,priya.joshi20@gmail.com,+91-91925-36962,UNKNOWN,True,Hyderabad,2026-06-12
+ID-1013,Karthik Das,karthik.das98@gmail.com,+91-79580-36432,UNKNOWN,False,Chennai,UNKNOWN
+ID-1014,Vikram Patel,vikram.patel40@gmail.com,9625667854,INVALID_EMAIL,True,Bangalore,2026-06-20
+ID-1015,Karthik Singh,karthik.singh16@gmail.com,MISSING,UNKNOWN,False,Madurai,2026-06-15
+ID-1016,Aarav Reddy,INVALID_EMAIL,+91-71810-82124,Machine Learning,True,Chennai,UNKNOWN
+ID-1017,Rohit Malhotra,rohit.malhotra10@gmail.com,+919679035289,Data Science,False,Hyderabad,2026-06-18
+ID-1018,Divya Reddy,divya.reddy21@gmail.com,+91-98710-25485,Python,False,Chennai,2026-06-10
+ID-1019,Neha Sharma,neha.sharma41@gmail.com,7474896769,Data,True,Coimbatore,2026-06-15
+ID-1020,Kavita Nair,kavita.nair18@gmail.com,+91-95657-40355,Machine Learning,False,Coimbatore,2026-6-15
+ID-1021,Deepak Iyer,deepak.iyer28@gmail.com,+91-83116-35470,Data,True,Trichy,2026-06-20
+ID-1022,Karthik Reddy,karthik.reddy12@gmail.com,+91-89456-49298,UNKNOWN,False,Chennai,2026-06-12
+ID-1023,Deepak Das,deepak.das63@gmail.com,+91-98861-76040,Python,True,Madurai,2026-06-150
+ID-1024,Manish Natesan,manish.natesan33@gmail.com,9801633960,Machine Learning,False,Unknown,2026-6-0
+ID-1025,Manish Kumar,manish.kumar81@gmail.com,+91-75029-77641,Python,False,Hyderabad,2026-06-18
+ID-1026,Karthik Verma,karthik.verma93@gmail.com,MISSING,Machine Learning,True,Hyderabad,2026-06-18
+ID-1027,Sneha Rao,sneha.rao98@gmail.com,MISSING,Data SeaneR,False,Trichy,UNKNOWN
+ID-1028,Rahul Singh,rahul.singh27@gmail.com,+91-98874-86539,Machine Learning,True,Coimbatore,2026-06-10
+ID-1029,Rahul Verma,rahul.verma91@gmail.com,MISSING,Machine Learning,False,Trichy,2026-06-20
+ID-1030,Ananya Rao,ananya.rao44@gmail.com,+91-83843-81726,UNKNOWN,True,Bangalore,2026-06-10
+ID-1031,Pooja Patel,pooja.patel50@gmail.com,07564562638,INVALID,False,Madurai,UNKNOWN
+ID-1032,Sneha Rao,sneha.rao77@gmail.com,MISSING,INVALID,True,Chennai,2026-06-18
+ID-1033,Karthik Das,karthik.das30@gmail.com,9450417114,Machine Learning,False,Mumbai,2026-06-12
+ID-1034,Priya Iyer,INVALID_EMAIL,8097521023,Machine Learning,True,Salem,2026-06-18
+ID-1035,Neha Iyer,neha.iyer26@gmail.com,+91-97595-33959,UNKNOWN,False,Salem,2026-06-20
+ID-1036,Ananya Patel,ananya.patel57@gmail.com,+91-99703-19337,Machine Learning,True,Trichy,2026-06-18
+ID-1037,Sneha Reddy,sneha.reddy95@gmail.com,9876194665,Python,False,Bangalore,2026-06-20
+ID-1038,Deepak Reddy,deepak.reddy39@gmail.com,7053937355,Python,False,Madurai,2026-06-20
+ID-1039,Pooja Reddy,pooja.reddy60@gmail.com,+91-74835-30159,Machine Learning,True,UNKNOWN,2026-6-20
+ID-1040,Divya Joshi,divya.joshi36@gmail.com,MISSING,Data,False,Salem,UNKNOWN
+ID-1041,Deepak Kumar,deepak.kumar30@gmail.com,+91-94275-45547,UNKNOWN,True,Madurai,2026-06-20
+ID-1042,Manish Sharma,manish.sharma37@gmail.com,+91-97532-44349,Data SeaneR,False,Chennai,2026-06-20
+ID-1043,Sneha Patel,sneha.patel78@gmail.com,MISSING,Machine Learning,True,Chennai,2026-06-12
+ID-1044,Amit Gupta,INVALID_EMAIL,+91-93410-59407,Machine Learning,False,Bangalore,2026-06-10
+ID-1045,Priya Das,priya.das44@gmail.com,8013675545,UNKNOWN,True,Coimbatore,2026-06-150
+ID-1046,Vikram Malhotra,vikram.malhotra26@gmail.com,+919379366570,INVALID_EMAIL,False,Madurai,2026-06-10
+ID-1047,Rohit Gupta,rohit.gupta39@gmail.com,MISSING,INVALID_COURSE,True,Chennai,2026-06-20
+ID-1048,Vikram Mehta,vikram.mehta15@gmail.com,MISSING,Data,False,UNKNOWN,2026-06-120
+ID-1049,Deepak Patel,INVALID_EMAIL,9771218415,Python,True,Mumbai,2026-06-18
+ID-1050,Rohit Reddy,INVALID_EMAIL,+91-99524-33833,Machine Learning,False,Coimbatore,2026-06-20
+ID-1051,Priya Iyer,priya.iyer69@gmail.com,+91-90309-16970,UNKNOWN,False,Mumbai,2026-06-20
+ID-1052,Manish Gupta,manish.gupta72@gmail.com,8377230384,Data,False,UNKNOWN,2026-06-20
+ID-1053,Manish Natesan,manish.natesan41@gmail.com,+91-77266-18702,Machine Learning,True,Chennai,2026-06-20
+ID-1054,Deepak Joshi,deepak.joshi76@gmail.com,+91-78175-57926,Python,False,Salem,2026-06-20
+ID-1055,Manish Verma,manish.verma34@gmail.com,MISSING,Machine Learning,False,Mumbai,UNKNOWN
+ID-1056,Karthik Rao,INVALID_EMAIL,MISSING,Python,False,Coimbatore,2026-06-20
+ID-1057,Manish Joshi,manish.joshi55@gmail.com,MISSING,UNKNOWN,False,Trichy,2026-06-150
+ID-1058,Ananya Mehta,ananya.mehta41@gmail.com,+91-90562-23456,INVALID,False,Hyderabad,2026-06-150
+ID-1059,Priya Natesan,priya.natesan32@gmail.com,9298448765,INVALID,False,Madurai,2026-06-20
+ID-1060,Ananya Joshi,ananya.joshi36@gmail.com,MISSING,Python,True,Salem,UNKNOWN
+ID-1061,Rohit Rao,rohit.rao26@gmail.com,+917454447744,UNKNOWN,False,Mumbai,2026-06-18
+ID-1062,Karthik Reddy,karthik.reddy18@gmail.com,+91-96657-46187,UNKNOWN,True,Chennai,2026-06-20
+ID-1063,Karthik Mehta,karthik.mehta57@gmail.com,+91-96150-24489,UNKNOWN,False,Madurai,2026-6-10
+ID-1064,Neha Mehta,neha.mehta51@gmail.com,MISSING,UNKNOWN,True,Trichy,2026-06-18
+ID-1065,Deepak Mehta,deepak.mehta59@gmail.com,+917436352944,Python,False,UNKNOWN,2026-06-12
+ID-1066,Aarav Rao,aarav.rao22@gmail.com,+91-78580-34285,Data,False,Hyderabad,2026-06-180
+ID-1067,Pooja Rao,pooja.rao16@gmail.com,+91-92928-63871,UNKNOWN,True,Chennai,2026-06-10
+ID-1068,Amit Sharma,amit.sharma54@gmail.com,8525454238,INVALID,True,Trichy,2026-06-150
+ID-1069,Karthik Joshi,karthik.joshi17@gmail.com,+91-82173-47441,Data,False,Trichy,2026-06-20
+ID-1070,Amit Natesan,amit.natesan25@gmail.com,+91-96726-91317,UNKNOWN,True,UNKNOWN,2026-06-20
+ID-1071,Kavita Kumar,kavita.kumar96@gmail.com,7688116949,INVALID,False,Bangalore,UNKNOWN
+ID-1072,Aarav Joshi,INVALID_EMAIL,+91-78017-16941,,True,UNKNOWN,2026-06-12
+ID-1073,Rahul Kumar,rahul.kumar41@gmail.com,+91-97058-71886,Data,False,Bangalore,2026-06-20
+ID-1074,Aarav Nair,aarav.nair95@gmail.com,9892063413,Machine Learning,False,Bangalore,UNKNOWN
+ID-1075,Ananya Iyer,ananya.iyer67@gmail.com,+91-79550-80173,INVALID,True,Salem,UNKNOWN
+ID-1076,Pooja Iyer,pooja.iyer31@gmail.com,+91-94114-53088,UNKNOWN,False,Salem,2026-06-10
+ID-1077,Neha Reddy,neha.reddy95@gmail.com,MISSING,INVALID_EMAIL,True,Coimbatore,2026-06-18
+ID-1078,Pooja Rao,INVALID_EMAIL,8921629963,Machine Learning,False,Mumbai,2026-06-18
+ID-1079,Amit Reddy,amit.reddy63@gmail.com,MISSING,Python,True,Mumbai,UNKNOWN
+ID-1080,Priya Sharma,priya.sharma17@gmail.com,MISSING,UNKNOWN,False,Chennai,2026-06-18
+ID-1081,Pooja Verma,pooja.verma14@gmail.com,+91-75569-79836,Data ScaneR,False,Mumbai,2026-06-10
+ID-1082,Manish Joshi,manish.joshi15@gmail.com,9871422015,Python,True,Salem,UNKNOWN
+ID-1083,Ananya Kumar,ananya.kumar56@gmail.com,7625427144,Python,False,Coimbatore,UNKNOWN
+ID-1084,Karthik Joshi,karthik.joshi49@gmail.com,+91-85183-81774,UNKNOWN,True,Coimbatore,2026-06-20
+ID-1085,Vikram Nair,vikram.nair22@gmail.com,+91-92415-34071,Python,False,Bangalore,2026-06-18
+ID-1086,Rahul Sharma,rahul.sharma39@gmail.com,+91-97523-51240,Python,False,UNKNOWN,
+ID-1087,Rahul Singh,INVALID_EMAIL,MISSING,Python,True,Chennai,2026-06-10
+ID-1088,Deepak Das,deepak.das28@gmail.com,8016138732,Python,False,Bangalore,2026-06-20
+ID-1089,Rahul Sharma,rahul.sharma64@gmail.com,+91-93954-67108,Python,True,UNKNOWN,2026-06-12
+ID-1090,Ananya Iyer,ananya.iyer71@gmail.com,8289146668,Machine Learning,False,Mumbai,UNKNOWN
+ID-1091,Pooja Natesan,pooja.natesan18@gmail.com,MISSING,Python,True,Bangalore,2026-06-10
+ID-1092,Manish Verma,manish.verma10@gmail.com,+91-76376-26907,Python,False,Madurai,2026-06-15
+ID-1093,Kavita Rao,kavita.rao10@gmail.com,+91-88977-91818,Python,False,Mumbai,2026-06-10
+ID-1094,Deepak Natesan,deepak.natesan57@gmail.com,MISSING,Machine Learning,True,UNKNOWN,2026-06-10
+ID-1095,Rohit Iyer,rohit.iyer10@gmail.com,+917524053221,Data,False,Chennai,2026-06-20
+ID-1096,Karthik Mehta,INVALID_EMAIL,MISSING,UNKNOWN,True,UNKNOWN,2026-12-060
+ID-1097,Rahul Natesan,rahul.natesan31@gmail.com,8926262796,UNKNOWN,False,Bangalore,2026-06-150
+ID-1098,Pooja Sharma,pooja.sharma76@gmail.com,MISSING,UNKNOWN,True,Bangalore,2026-06-18
+ID-1099,Sneha Mehta,sneha.mehta25@gmail.com,+91-96631-89714,UNKNOWN,False,Trichy,2026-06-18
+ID-1100,Sneha Das,sneha.das95@gmail.com,9734210302,INVALID_EMAIL,False,Chennai,2026-06-10
+ID-1101,Ananya Verma,INVALID_EMAIL,+91-83013-18717,UNKNOWN,True,Chennai,2026-06-20
+ID-1102,Pooja Mehta,pooja.mehta78@gmail.com,7815077661,UNKNOWN,False,Mumbai,2026-06-20
+ID-1103,Deepak Nair,deepak.nair71@gmail.com,+91-86748-14621,Machine Learning,True,Coimbatore,2026-06-18
+ID-1104,Divya Gupta,divya.gupta85@gmail.com,+91-99554-15126,UNKNOWN,False,Chennai,2026-06-150
+ID-1105,Divya Verma,INVALID_EMAIL,MISSING,UNKNOWN,False,Coimbatore,2026-06-20
+ID-1106,Kavita Kumar,kavita.kumar94@gmail.com,MISSING,UNKNOWN,False,Chennai,2026-06-150
+ID-1107,Vikram Reddy,vikram.reddy42@gmail.com,+91-73086-56271,Machine Learning,False,Chennai,UNKNOWN
+ID-1108,Priya Iyer,priya.iyer32@gmail.com,8277220267,INVALID,False,UNKNOWN,0000-00-00
+ID-1109,Divya Das,INVALID_EMAIL,MISSING,UNKNOWN,True,Chennai,2026-06-20
+ID-1110,Neha Singh,neha.singh43@gmail.com,+91-99926-16229,INVALID_EMAIL,False,Trichy,2026-06-18
+ID-1111,Vikram Reddy,INVALID_EMAIL,+91-85147-14632,Machine Learning,True,Chennai,2026-06-12
+ID-1112,Karthik Reddy,karthik.reddy67@gmail.com,+91-81475-16168,UNKNOWN,False,Bangalore,2026-06-20
+ID-1113,Karthik Gupta,karthik.gupta78@gmail.com,MISSING,Machine Learning,True,Hyderabad,UNKNOWN
+ID-1114,Manish Das,manish.das25@gmail.com,+91-96734-16371,UNKNOWN,False,Coimbatore,2026-06-10
+ID-1115,Kavita Iyer,kavita.iyer11@gmail.com,8436922910,INVALID,False,Bangalore,2026-06-10
+ID-1116,Pooja Reddy,INVALID_EMAIL,8572833275,UNKNOWN,True,Hyderabad,2026-06-18
+ID-1117,Neha Verma,neha.verma93@gmail.com,+917247270004,UNKNOWN,False,Chennai,2026-06-20
+ID-1118,Manish Sharma,manish.sharma59@gmail.com,9178558447,Data,True,Chennai,2026-06-150
+ID-1119,Aarav Rao,aarav.rao42@gmail.com,+91-80167-86090,Data,False,Coimbatore,2026-06-20
+ID-1120,Kavita Das,kavita.das60@gmail.com,+91-73812-38024,Python,True,Coimbatore,2026-06-10
+ID-1121,Neha Gupta,neha.gupta21@gmail.com,+91-97285-11605,Data,False,Chennai,2026-06-10
+ID-1122,Divya Rao,divya.rao42@gmail.com,+91-97139-87149,Python,False,Hyderabad,
+ID-1123,Rahul Verma,rahul.verma52@gmail.com,+91-80589-23918,Python,True,Chennai,2026-06-20
+ID-1124,Vikram Joshi,vikram.joshi22@gmail.com,MISSING,Machine Learning,False,Mumbai,2026-06-20
+ID-1125,Kavita Rao,INVALID_EMAIL,+91-94818-14324,Machine Learning,True,Madurai,2026-06-10
+ID-1126,Manish Singh,INVALID_EMAIL,7534226389,UNKNOWN,False,Bangalore,2026-06-150
+ID-1127,Aarav Kumar,INVALID_EMAIL,8404338746,Machine Learning,True,UNKNOWN,2026-06-18
+ID-1128,Rohit Reddy,rohit.reddy17@gmail.com,+91-78837-10117,Data,False,Bangalore,2026-06-18
+ID-1129,Amit Natesan,amit.natesan83@gmail.com,8893523234,Data,False,Cb,2026-06-20
+ID-1130,Kavita Malhotra,INVALID_EMAIL,9067310846,UNKNOWN,True,Hyderabad,2026-06-18
+ID-1131,Amit Rao,amit.rao16@gmail.com,+91-85385-56514,Machine Learning,False,UNKNOWN,2026-06-10
+ID-1132,Sneha Sharma,sneha.sharma84@gmail.com,7646940105,UNKNOWN,True,Coimbatore,2026-06-10
+ID-1133,Manish Sharma,manish.sharma45@gmail.com,+91-96386-68067,Data,False,Mumbai,2026-06-20
+ID-1134,Rohit Gupta,rohit.gupta45@gmail.com,+91-74208-77584,Python,True,Mumbai,2026-06-20
+ID-1135,Karthik Das,karthik.das82@gmail.com,+91-82607-52533,UNKNOWN,False,Coimbatore,UNKNOWN
+ID-1136,Pooja Patel,INVALID_EMAIL,+91-90618-42254,Machine Learning,True,Trichy,2026-06-20
+ID-1137,Rahul Sharma,rahul.sharma45@gmail.com,8841057362,Machine Learning,False,Hyderabad,2026-6-15
+ID-1138,Ananya Sharma,ananya.sharma33@gmail.com,MISSING,Machine Learning,True,Trichy,2026-06-18
+ID-1139,Amit Sharma,amit.sharma46@gmail.com,7000992180,Python,False,Trichy,2026-06-20
+ID-1140,Kavita Sharma,kavita.sharma64@gmail.com,MISSING,UNKNOWN,True,Bangalore,2026-06-12
+ID-1141,Priya Patel,priya.patel98@gmail.com,8844415287,Python,False,Chennai,UNKNOWN
+ID-1142,Karthik Malhotra,karthik.malhotra39@gmail.com,7851211342,Python,False,Bangalore,2026-06-10
+ID-1143,Pooja Singh,pooja.singh71@gmail.com,+91-89216-89767,UNKNOWN,True,Chennai,2026-06-10
+ID-1144,Aarav Sharma,aarav.sharma98@gmail.com,+91-73490-52078,UNKNOWN,False,Madurai,2026-06-18
+ID-1145,Rahul Das,rahul.das68@gmail.com,+91-82219-10235,INVALID,True,Ke,2026-06-20
+ID-1146,Priya Singh,priya.singh21@gmail.com,7190818567,Python,False,Chennai,2026-06-20
+ID-1147,Karthik Iyer,karthik.iyer28@gmail.com,+91-89019-83698,Python,True,Coimbatore,2026-06-18
+ID-1148,Vikram Verma,vikram.verma80@gmail.com,MISSING,Data,False,Bangalore,2026-06-10
+ID-1149,Sneha Verma,sneha.verma61@gmail.com,+91-81157-15951,Python,True,Hyderabad,2026-06-15
+ID-1150,Kavita Joshi,kavita.joshi25@gmail.com,+91-98426-51832,Python,False,Unknown,
